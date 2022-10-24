@@ -1,5 +1,14 @@
-
-// TODO: Insert your header
+// Alex Labitigan
+// CPSC 120-12
+// 2022-10-24
+// alexlabitigan@csu.fullerton.edu
+// @auhlz
+//
+// Lab 08-01
+// Partners: @Menuk09
+//
+// Fidning Palindrome
+//
 
 #include <fstream>
 #include <iostream>

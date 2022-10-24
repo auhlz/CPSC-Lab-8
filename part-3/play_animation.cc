@@ -1,4 +1,14 @@
-// TODO: Insert your header
+// Alex Labitigan
+// CPSC 120-12
+// 2022-10-24
+// alexlabitigan@csu.fullerton.edu
+// @auhlz
+//
+// Lab 08-03
+// Partners: @Menuk09
+//
+// Date difference with funcitons
+//
 
 #include <chrono>
 #include <fstream>

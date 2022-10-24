@@ -1,5 +1,14 @@
-
-// TODO: Insert your header
+// Alex Labitigan
+// CPSC 120-12
+// 2022-10-24
+// alexlabitigan@csu.fullerton.edu
+// @auhlz
+//
+// Lab 08-02
+// Partners: @Menuk09
+//
+// Saving message
+//
 
 #include <fstream>
 #include <iostream>
