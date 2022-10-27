@@ -18,8 +18,8 @@
 void Prompt() {
   std::cout
       << "What's a secret message that you'd like to write into a file?\n";
-  std::cout << "Type your message out and when you're done ";
-  std::cout << "press return or enter.\n";
+  std::cout
+      << "Type your message out and when you're done press return or enter.\n";
 }
 int main(int argc, char* argv[]) {
   std::vector<std::string> args{argv, argv + argc};
