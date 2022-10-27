@@ -38,7 +38,7 @@ int main(int argc, char const* argv[]) {
     return 1;
   }
 
-  while (input_file_stream) {
+  while (input_file_stream.good()) {
     std::string line_buffer;
     std::getline(input_file_stream, line_buffer);
     if (line_buffer.size() > 3 && IsPalindrome(line_buffer)) {
