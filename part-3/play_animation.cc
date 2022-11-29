@@ -5,7 +5,7 @@
 // @auhlz
 //
 // Lab 08-03
-// Partners: @Menuk09
+// Partners: @Menulk09
 //
 // Play animations
 //
