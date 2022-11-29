@@ -5,7 +5,7 @@
 // @auhlz
 //
 // Lab 08-02
-// Partners: @Menuk09
+// Partners: @Menulk09
 //
 // Saving message
 //
