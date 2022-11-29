@@ -5,7 +5,7 @@
 // @auhlz
 //
 // Lab 08-01
-// Partners: @Menuk09
+// Partners: @Menulk09
 //
 // Fidning Palindrome
 //
